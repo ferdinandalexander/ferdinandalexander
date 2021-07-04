@@ -2,5 +2,5 @@
 - ✅ I design web apps
 
 <!---
-ferdinandalexander/ferdinandalexander is a ✨ well ✨ , you have to find out .
+ferdinand is a ✨ ✨ , you have to find out .
 --->
